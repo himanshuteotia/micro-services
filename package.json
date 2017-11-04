@@ -1,0 +1,23 @@
+{
+  "name": "micro-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshuteotia/micro-services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshuteotia/micro-services/issues"
+  },
+  "homepage": "https://github.com/himanshuteotia/micro-services#readme",
+  "dependencies": {
+    "level": "^2.0.0",
+    "then-levelup": "^1.0.2"
+  }
+}
