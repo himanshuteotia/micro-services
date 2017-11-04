@@ -1,5 +1,5 @@
-TO start with this projectc you need to install micro 
+To start with this project you need to install micro 
 ```
-npm install -g micro
+npm install -g micro && npm install 
 
 ```
